@@ -20,3 +20,9 @@ Threefold Grid extension based on [js-ng framework](https://github.com/threefold
 ## API Docs
 
 [browsable](https://threefoldtech.github.io/js-sdk/api/jumpscale/) at https://threefoldtech.github.io/js-sdk/api/jumpscale/
+
+
+
+### Technical owner:
+https://github.com//xmonader
+https://github.com//rkhamis
